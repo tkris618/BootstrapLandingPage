@@ -1,0 +1,17 @@
+.Accordion_Header {
+    color: #003e7a;
+}
+.mainFooter {
+    background-image: url(footer_bg.jpg);
+    background-size: cover;
+
+}
+.contentFooter {
+    max-width: 1170px;
+}
+#contentFooter {
+    border: 1px solid white;
+    color: white;
+    margin: auto;
+    margin-bottom: 15px;
+}
